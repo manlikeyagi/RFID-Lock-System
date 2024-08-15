@@ -11,7 +11,11 @@ Servo: For controlling the servo motor
 
 Features
 RFID Authentication: Uses RFID technology to authenticate users.
+
 Secure Access: Only pre-registered RFID tags can unlock the door.
+
 Visual Indicators: LEDs indicate the lock/unlock status.
+
 Buzzer Alert: A buzzer sounds for successful or failed authentication attempts.
+
 Easy to Expand: New RFID tags can be easily added or removed from the system.
